@@ -5,9 +5,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contribution](#contribute)
-- [Contact](#maintainer)
 
 ## About The Project
 
