@@ -12,6 +12,7 @@ function Terminal() {
     }, []);
 
 
+    // to handle the input given
     const handleInput = (e) => {
         if (e.key === 'Enter') {
             processCommand(input);
@@ -19,11 +20,8 @@ function Terminal() {
         }
     };
 
-    // const clearScreen = () => {
-    // setOutput([]);
-    // };
 
-
+    // to update files and directories
     const updateFilesAndDirectories = (newFilesAndDirs) => {
         setFilesAndDirectories(newFilesAndDirs);
     };
@@ -54,8 +52,9 @@ function Terminal() {
     };
 
 
+    // to process all commands available
     const processCommand = (command) => {
-        // Handle your commands here
+        //  to handle the commands here
         let response = '';
         const commandParts = command.trim().split(' ');
         if (command.trim().toLowerCase() === 'clear') {
@@ -157,7 +156,7 @@ function Terminal() {
     };
 
 
-
+    // to set output again empty
     const clearScreen = () => {
         setOutput([]);
     };

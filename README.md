@@ -1,8 +1,64 @@
-# React + Vite
+## Table of Contents
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contribution](#contribute)
+- [Contact](#maintainer)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About The Project
 
-Currently, two official plugins are available:
+Web Terminal helps you to learn the basic linux 
+commands on your browser itself.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Built With
+
+- [React](https://reactjs.org/)
+
+<!-- GETTING STARTED -->
+
+## Getting Started
+
+To get a local copy up and running follow these 
+simple steps.
+
+### Prerequisites
+
+This is an example of how to list things you need
+use the software and how to install them.
+
+- npm
+
+```sh
+npm install
+```
+
+### Installation
+
+1. Clone the repo
+
+```sh
+git clone https://github.com/bhavy03/Web-terminal
+```
+
+2. Install NPM packages
+
+```sh
+npm install
+```
+
+2. Run
+
+```sh
+npm run dev
+```
+
+<!-- USAGE EXAMPLES -->
+
+## Usage
+
+The primary goal of this project is to help you 
+learn basic Linux commands in your browser itself
